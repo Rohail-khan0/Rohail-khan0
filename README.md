@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rohail Khan</h1>
 <h3 align="center">A passionate Programmer from Karachi</h3>
-<img align="right" alt="Coding" width="400" src="![image](https://github.com/user-attachments/assets/52ca55a0-3a5d-4e31-a5dd-3767f766d830)
-">
+<img align="right" alt="Coding" width="400" src="MyImage.gif">
 
 - 📫 How to reach me **uk6277643@gmail.com**
 
