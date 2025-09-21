@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rohail Khan</h1>
-<h3 align="center">A passionate Programmer from Karachi</h3>
+<h3 align="center">Passionate About Big Data, AI, and Real-World Impact</h3>
 <img align="right" alt="Coding" width="400" src="MyImage.gif">
 
 - 📫 How to reach me **rohailkhan.dev@gmail.com**
